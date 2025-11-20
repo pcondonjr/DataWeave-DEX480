@@ -4,8 +4,8 @@ Touch point for students of November DataWeave class
 
 DEX480 - Anypoiont Development: DataWeave Classroom Reference - 251120 - CDT
 
-Vincent Lowe
-vlowe@salesforce.com
+Vincent Lowe vlowe@salesforce.com
+
 Vincent's Blog: https://techwhine.panreality.com/
 
 -------------------------------------------------------------------------------------------------------------------

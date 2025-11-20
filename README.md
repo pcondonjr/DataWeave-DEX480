@@ -58,6 +58,9 @@ Classroom Playlist
 |Track Title|Artist|Notes|
 |-----------|------|-----|
 |Smooth Criminal|Luca Stricagnoli||
+|My Rifle, My Pony and Me|Dean Martin and Ricky Nelson|from the movie: Red River|
+|Here We Go Again|Ray Charles and Norah Jones|from Genius Loves Company|
+
 
 
 
